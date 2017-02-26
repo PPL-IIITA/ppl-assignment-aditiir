@@ -17,7 +17,7 @@ OS Type : 64 bit<p>
 
 <h4><u>Class Diagram</u> :</h4>
 <hr>
-One class diagram for both questions has been made and can be found in PPL1 folder.
+One class diagram for both questions has been made and can be found in PPL1 folder named as classdiag_iit069.
 
 <h4><u>Documentation</u> :</h4>
 <hr>
