@@ -14,6 +14,9 @@ OS Type : 64 bit<p>
 \PPL1\build\classes>java iit069_q1
 <p>
 \PPL1\build\classes>java iit069_q2
+<p>
+For ques 10
+\PPL_q10\build\classes>java iit069_q10
 
 <h4><u>Class Diagram</u> :</h4>
 <hr>
