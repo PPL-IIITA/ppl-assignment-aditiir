@@ -18,7 +18,7 @@ OS Type : 64 bit<p>
 For ques 3<br>
 \PPL_q3\build\classes>java iit069_q3<br>
 For ques 4<br>
-\PPL_q5\build\classes>java iit069_q4<br>
+\PPL_q4\build\classes>java iit069_q4<br>
 For ques 5<br>
 \PPL_q5\build\classes>java iit069_q5<br>
 For ques 6<br>
@@ -33,7 +33,7 @@ For ques 10<br>
 \PPL_q10\build\classes>java iit069_q10<br>
 <h4><u>Class Diagram</u> :</h4>
 <hr>
-One class diagram for both questions has been made and can be found in PPL1 folder named as classdiag_iit069.<br>
+One class diagram for both questions 1 and 2 has been made and can be found in PPL1 folder named as classdiag_iit069.<br>
 Class diagrams for ques 3 to 10 are in the respective folders of the ques,named as classdiag_qno
 
 <h4><u>Documentation</u> :</h4>
