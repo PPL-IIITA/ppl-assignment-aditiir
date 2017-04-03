@@ -39,4 +39,5 @@ Class diagrams for ques 3 to 10 are in the respective folders of the ques,named 
 <h4><u>Documentation</u> :</h4>
 <hr>
 Documentation for the ques 1 and 2 can be found in folder named Documentation.<br>
-Documentation for ques 3 to 10 can be found by the name Documentation_qno
+Documentation for ques 3 to 9 can be found by the name Documentation_qno<br>
+Documentation for ques 10 is in the folder of the ques.
