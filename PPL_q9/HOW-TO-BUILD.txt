@@ -1,0 +1,12 @@
+Software used: apache-ant-1.10.1
+OS used: Windows8
+
+The project can be built using ANT on Windows8.
+
+In the command prompt, change the current directory to:
+PPL_q9/iit069_q9
+
+Create a folder "classes" if not already present and copy the text files "data_b.txt", "data_g.txt", "essen_gifts.txt", "util_gifts.txt", "lux_gifts.txt",
+"couple.txt","name_b.txt","name_g.txt".A copy of these text files should also be present in the directory "PPL_q9". 
+
+The build.xml file is given in the folder. Just type "ant" in the command prompt.The .class files of all the java files will be built in the folder "classes".
