@@ -1,0 +1,8 @@
+Set the current working directory path to the path where the project is present.
+Change the path to PPL_q4/classes
+
+Now on the command prompt, type:
+
+java iit069_q4
+
+So, the command is "cd PPL_q4/classes java iit069_q4"
