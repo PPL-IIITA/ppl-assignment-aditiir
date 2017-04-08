@@ -7,7 +7,9 @@ ppl-assignment-aditiir created by GitHub Classroom
 <hr>
 Operating System : Windows 8 <p>
 OS Type : 32 bit<p>
-<h6><u>Note</u> :</h6> All codes submitted are build and tested on Netbeans IDE 8.2 and on ANT 1.10.1<p>
+<h6><u>Note</u> :</h6> All codes submitted are build and tested on Netbeans IDE 8.2<br>
+The projects have also been tested by building them using "apache-ant-1.10.1". The instructions to build the file have been given separately in each folder.<br>
+The commands to build and run the questions have been provided in the text files "HOW-TO-BUILD.txt" and "HOW-TO-RUN.txt respectively for each question seperately.<p>
 
 <h4><u>Command for command prompt in Windows</u> :</h4>
 <hr>
@@ -39,4 +41,4 @@ Class diagrams for ques 3 to 10 are in the respective folders of the ques,named 
 <h4><u>Documentation</u> :</h4>
 <hr>
 Documentation for the ques 1 and 2 can be found in folder named Documentation.<br>
-Documentation for ques 3 to 10 can be found by the name Documentation_qno<br>
+Documentation for ques 3 to 10 has been done using JAVADOC and can be found by the name Documentation_qno<br>
