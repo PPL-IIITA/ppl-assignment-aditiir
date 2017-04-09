@@ -1,0 +1,3 @@
+Change the current directory to the directory where the project is saved.
+Type "ant javadocs" on the command prompt.
+A folder called "docs" will be created where the documentation files are generated.
