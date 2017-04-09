@@ -7,9 +7,10 @@ ppl-assignment-aditiir created by GitHub Classroom
 <hr>
 Operating System : Windows 8 <p>
 OS Type : 32 bit<p>
-<h6><u>Note</u> :</h6> All codes submitted are build and tested on Netbeans IDE 8.2<br>
+<h6><u>Note</u> :</h6> All codes submitted are build and tested on Netbeans IDE 8.2.<br>
 The projects have also been tested by building them using "apache-ant-1.10.1". The instructions to build the file have been given separately in each folder.<br>
-The commands to build and run the questions have been provided in the text files "HOW-TO-BUILD.txt" and "HOW-TO-RUN.txt respectively for each question seperately.<p>
+The commands to build and run the questions have been provided in the text files "HOW-TO-BUILD.txt" and "HOW-TO-RUN.txt respectively for each question seperately.<br>
+The commands for generating the documentaion using ant has been given in the file named "HOW TO GENERATE DOCUMENTATION.txt".<p>
 
 <h4><u>Command for command prompt in Windows</u> :</h4>
 <hr>
